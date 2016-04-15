@@ -1,6 +1,13 @@
 ## from
 https://github.com/firepress-org/splashy/blob/master/changelog.md
 
+### 0.xx
+- tk
+
+### 0.22
+- repo re-structuring
+- renaming favicons
+
 ### 0.21
 - normalizing picture names
 - new icons
