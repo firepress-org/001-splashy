@@ -4,7 +4,12 @@ https://github.com/firepress-org/splashy/blob/master/changelog.md
 ### 0.xx
 - tk
 
+### 0.23
+- rename html-static
+- rm the release DIR
+
 ### 0.22
+- 2016-04-15_12h40_splashy-firepress-org.zip
 - repo re-structuring
 - renaming favicons
 
