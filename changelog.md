@@ -1,8 +1,12 @@
 ## from
 https://github.com/firepress-org/splashy/blob/master/changelog.md
 
+### Next
+- glitch: two bg img are exported ...
+- feat: Using the **flex** function to align vertical the main block
+
 ### 0.xx
-- glitch with two img bg ..
+- tk
 
 ### 0.24
 - 2016-04-15_13h19_splashy-firepress-org.zip
