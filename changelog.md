@@ -2,7 +2,12 @@
 https://github.com/firepress-org/splashy/blob/master/changelog.md
 
 ### 0.xx
-- tk
+- glitch with two img bg ..
+
+### 0.24
+- 2016-04-15_13h19_splashy-firepress-org.zip
+- fix the background image. Now more square
+- iphone 5 - landscape view, bottom issue https://github.com/firepress-org/splashy/issues/1
 
 ### 0.23
 - rename html-static
