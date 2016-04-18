@@ -5,6 +5,7 @@ https://github.com/firepress-org/splashy/blob/master/changelog.md
 - glitch: two bg img are exported ...
 - feat: Using the **flex** function to align vertical the main block
 - ISSUE - the background img is into the css ...
+- use http://realfavicongenerator.net/
 
 ### 0.xx
 - date
