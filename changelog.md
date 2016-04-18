@@ -6,7 +6,26 @@ https://github.com/firepress-org/splashy/blob/master/changelog.md
 - feat: Using the **flex** function to align vertical the main block
 
 ### 0.xx
+- date
 - tk
+
+### 0.xx
+- date
+- tk
+
+### 0.xx
+- date
+- tk
+
+### 0.26
+- 2016-04-18_12h26
+- update links
+- using bg beach-102.jpg
+
+### 0.25
+- 2016-04-17_11h14
+- new back ground
+- The typo fit with the blog
 
 ### 0.24
 - 2016-04-15_13h19_splashy-firepress-org.zip

@@ -5,11 +5,10 @@
 
 .body-main {
   height: 100%;
-  background-image: url('../images/background.jpg'), -webkit-radial-gradient(circle farthest-side at 50% 50%, rgba(221, 246, 255, .74), hsla(0, 0%, 100%, .1));
-  background-image: url('../images/background.jpg'), radial-gradient(circle farthest-side at 50% 50%, rgba(221, 246, 255, .74), hsla(0, 0%, 100%, .1));
-  background-position: 50% 0px, 0px 0px;
-  background-size: cover, auto;
-  background-repeat: no-repeat, repeat;
+  background-image: url('../images/beach102.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
   font-size: 18px;
   line-height: 48px;
   text-align: center;
@@ -21,6 +20,7 @@
   margin-right: auto;
   margin-left: auto;
   padding: 50px 20px 30px;
+  border: 1px solid #ececec;
   border-radius: 4px;
   background-color: #fff;
 }
@@ -38,9 +38,7 @@
 .img-profile {
   width: 128px;
   height: 128px;
-  border-style: solid;
-  border-width: 1px;
-  border-color: rgba(0, 0, 0, .1);
+  border: 1px solid #ececec;
   border-radius: 64px;
 }
 
@@ -49,7 +47,7 @@
   margin-bottom: 0px;
   padding-top: 40px;
   padding-bottom: 5px;
-  font-family: Montserrat, sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #3b3b3b;
   font-size: 1.6em;
   line-height: 1.1em;
@@ -60,15 +58,16 @@
 .header2 {
   margin-top: 0px;
   margin-bottom: 0px;
-  font-family: Lato, sans-serif;
+  font-family: Merriweather, serif;
   color: #666;
   font-size: 1em;
   line-height: 1.4em;
+  font-weight: 400;
   text-align: center;
 }
 
 .cta {
-  padding-top: 20px;
+  padding-top: 25px;
   padding-bottom: 20px;
   text-align: center;
 }
@@ -77,9 +76,10 @@
   padding: 2px 22px;
   border-radius: 4px;
   background-color: #3d96e9;
-  font-family: Lato, sans-serif;
+  font-family: Merriweather, serif;
   color: #fff;
   font-size: 1em;
+  font-weight: 300;
   text-decoration: none;
   text-transform: capitalize;
 }
@@ -89,15 +89,16 @@
   margin-right: 0px;
   margin-bottom: 8px;
   margin-left: 0px;
-  padding: 15px 10px;
+  padding: 15px 12px;
   border-style: none;
   border-width: 1px;
   border-color: rgba(5, 103, 141, .2);
   border-radius: 5px;
-  font-family: Lato, sans-serif;
-  color: silver;
+  font-family: 'Open Sans', sans-serif;
+  color: #b1b1b1;
   font-size: 0.8em;
   line-height: 0.5em;
+  font-weight: 400;
   letter-spacing: 0.2px;
   text-decoration: none;
 }
@@ -106,13 +107,13 @@
   display: block;
   margin-right: auto;
   margin-left: auto;
-  padding-top: 5px;
+  padding-top: 0px;
   line-height: 0.5em;
   text-align: center;
 }
 
 .flashy-color {
-  color: #ffc555;
+  color: #3d96e9;
 }
 
 @media (max-width: 991px) {
@@ -156,10 +157,6 @@
   .section-splash {
     padding-top: 35px;
     padding-bottom: 35px;
-  }
-  .body-main {
-    background-image: -webkit-radial-gradient(circle farthest-side at 50% 50%, #ddf6ff, hsla(0, 0%, 100%, .1)), url('../images/background.jpg');
-    background-image: radial-gradient(circle farthest-side at 50% 50%, #ddf6ff, hsla(0, 0%, 100%, .1)), url('../images/background.jpg');
   }
   .profile-background {
     width: 94%;
