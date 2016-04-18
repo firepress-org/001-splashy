@@ -4,10 +4,7 @@ https://github.com/firepress-org/splashy/blob/master/changelog.md
 ### Next
 - glitch: two bg img are exported ...
 - feat: Using the **flex** function to align vertical the main block
-
-### 0.xx
-- date
-- tk
+- ISSUE - the background img is into the css ...
 
 ### 0.xx
 - date
@@ -20,6 +17,12 @@ https://github.com/firepress-org/splashy/blob/master/changelog.md
 ### 0.26
 - 2016-04-18_12h26
 - update links
+- http://dockercluster.tk/
+- http://blog.dockercluster.tk/let-me-help-you/
+- http://blog.dockercluster.tk/
+- http://blog.dockercluster.tk/biography/
+- http://blog.dockercluster.tk/now/
+- http://blog.dockercluster.tk/mission/
 - using bg beach-102.jpg
 
 ### 0.25
