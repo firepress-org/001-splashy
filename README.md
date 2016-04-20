@@ -1,7 +1,7 @@
 ## from
 https://github.com/firepress-org/splashy/blob/master/changelog.md
 
-## changelog
+## see changelog
 https://github.com/firepress-org/splashy/blob/master/changelog.md
 
 ## screenshots
