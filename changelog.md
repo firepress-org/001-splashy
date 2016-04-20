@@ -6,8 +6,9 @@ https://github.com/firepress-org/splashy/blob/master/changelog.md
 - Testing via https://www.browserstack.com/
 
 ### 0.28
-- get-html:
+- 2016-04-19_22h55
 - removing brainstorm picture to safe space
+- Project weights is: 1.4MO
 
 ### 0.27
 - 2016-04-19_18h40
