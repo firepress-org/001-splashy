@@ -5,6 +5,10 @@ https://github.com/firepress-org/splashy/blob/master/changelog.md
 - uglified
 - Testing via https://www.browserstack.com/
 
+### 0.29
+- 2016-04-20_11h50
+- add a flag I help people and brands to create outstanding websites. 0.29 so I can test between tags 0.28 & 0.29
+
 ### 0.28
 - 2016-04-19_22h55
 - removing brainstorm picture to safe space
