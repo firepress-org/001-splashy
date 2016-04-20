@@ -5,9 +5,9 @@ https://github.com/firepress-org/splashy/blob/master/changelog.md
 - uglified
 - Testing via https://www.browserstack.com/
 
-### 0.xx
-- date
-- tk
+### 0.28
+- get-html:
+- removing brainstorm picture to safe space
 
 ### 0.27
 - 2016-04-19_18h40
