@@ -1,7 +1,7 @@
-## from
+## see changelog
 https://github.com/firepress-org/splashy/blob/master/changelog.md
 
-## see changelog
+## repo original location
 https://github.com/firepress-org/splashy/blob/master/changelog.md
 
 ## screenshots
