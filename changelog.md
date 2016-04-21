@@ -1,4 +1,4 @@
-## from
+## Please check to changelog here
 https://github.com/firepress-org/splashy/blob/master/changelog.md
 
 ### Next
