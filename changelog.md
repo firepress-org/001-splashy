@@ -6,6 +6,9 @@ https://github.com/firepress-org/splashy/blob/master/changelog.md
 - Testing via https://www.browserstack.com/
 - tk
 
+### 0.30
+- adding a md file (2016-04-21_17h25.md) for debugging & testing the data containr
+
 ### 0.29
 - 2016-04-20_11h50
 - add a flag I help people and brands to create outstanding websites. 0.29 so I can test between tags 0.28 & 0.29
