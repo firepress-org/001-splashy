@@ -6,6 +6,9 @@ https://github.com/firepress-org/splashy/blob/master/changelog.md
 - Testing via https://www.browserstack.com/
 - tk
 
+### 0.31
+- adding a md file (v31.md) for debugging & testing the data containr
+- 
 ### 0.30
 - adding a md file (2016-04-21_17h25.md) for debugging & testing the data containr
 
