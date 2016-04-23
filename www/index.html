@@ -32,7 +32,8 @@
       <div class="profile-background">
         <h1 class="header1"><div id="01Title"></div></h1>
         <h2 class="header2"><div id="02SubTitle"></div></h2>
-        <div class="cta"><a href="http://blog.dockercluster.tk/let-me-help-you/" class="w-button button">let me Help you &gt;</a>
+        <div class="cta">
+            <a id="CallToAction" href="#" class="w-button button"></a>
         </div>
         <div class="div-hash-links"><a href="http://blog.dockercluster.tk/" class="hash-links">blog</a><a href="http://blog.dockercluster.tk/biography/" class="hash-links">past</a><a href="http://blog.dockercluster.tk/now/" class="hash-links">now</a><a href="http://blog.dockercluster.tk/mission/" class="hash-links">future</a>
         </div>
@@ -43,9 +44,18 @@
   <script type="text/javascript" src="js/splashy-by-firepress-org.js"></script>
   <!--[if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]-->
   <script>
-      document.getElementById("01Title").innerHTML = "Jimmy Ray";
-      document.getElementById("02SubTitle").innerHTML = "I help people and brands to create outstanding websites. 0.41";
-      document.getElementById("03Tk").innerHTML = "tk";
+      
+    document.getElementById("01Title").innerHTML = "Jimmy Ray";
+    document.getElementById("02SubTitle").innerHTML = "I help people and brands to create outstanding websites. 0.41";
+    
+    document.getElementById("CallToAction").innerHTML = "let me Help you!";
+    document.getElementById("CallToAction").href = "http://blog.dockercluster.tk/let-me-help-you/";
+    document.getElementById("CallToAction").target = "_blank";  
+    
+    document.getElementById("03Tk").innerHTML = "tk";
+
+
+
   </script>
 </body>
 </html>
