@@ -10,12 +10,17 @@ https://github.com/firepress-org/splashy/blob/master/changelog.md
 - tk
 - date
 
-### 0.41 wip
-- adding content into variables
-- thanks to http://www.w3schools.com/jsref/prop_html_innerhtml.asp
-- 2016-04-23_12h31
+### 0.X
+- tk
+- date
 
-### 0.40 2016-04-22_22h21
+### 0.41
+- adding content into variables
+- Not sure about this: <title><div id="05PageTitle"></div></title>
+- ref http://www.w3schools.com/jsref/prop_html_innerhtml.asp
+- 2016-04-23_13h14
+
+### 0.40
 - New export
 - Font H2 is tiner
 - Picture is bigger on the desktop view
