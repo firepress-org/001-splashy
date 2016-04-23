@@ -6,8 +6,14 @@ https://github.com/firepress-org/splashy/blob/master/changelog.md
 - Testing via https://www.browserstack.com/
 - tk
 
+### 0.33
+- adding a md file (v32.md) for debugging & testing the data containr
+- cleaning the project. Now 489Ko
+- 2016-04-22_22h13
+
 ### 0.32
 - adding a md file (v32.md) for debugging & testing the data containr
+- 2016-04-22_22h02
 
 ### 0.31
 - adding a md file (v31.md) for debugging & testing the data containr
