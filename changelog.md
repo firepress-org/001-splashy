@@ -6,7 +6,15 @@ https://github.com/firepress-org/splashy/blob/master/changelog.md
 - Testing via https://www.browserstack.com/
 - tk
 
-### 0.40
+### 0.X
+- tk
+- date
+
+### 0.41 wip
+- adding content into variables
+- date
+
+### 0.40 2016-04-22_22h21
 - New export
 - Font H2 is tiner
 - Picture is bigger on the desktop view
