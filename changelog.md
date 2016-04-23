@@ -6,6 +6,12 @@ https://github.com/firepress-org/splashy/blob/master/changelog.md
 - Testing via https://www.browserstack.com/
 - tk
 
+### 0.40
+- New export
+- Font H2 is tiner
+- Picture is bigger on the desktop view
+- 2016-04-22_22h22
+
 ### 0.33
 - adding a md file (v32.md) for debugging & testing the data containr
 - cleaning the project. Now 489Ko
