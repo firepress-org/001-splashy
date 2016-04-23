@@ -10,13 +10,13 @@ https://github.com/firepress-org/splashy/blob/master/changelog.md
 - tk
 - date
 
-### 0.X
-- tk
-- date
+### 0.42
+- fixing the meta, not in VARs
+- wip
 
 ### 0.41
 - adding content into variables
-- Not sure about this: <title><div id="05PageTitle"></div></title>
+- Issue with <title><div id="05PageTitle"></div></title> . see https://github.com/general-notes/2DO/issues/20#issuecomment-213795963
 - ref http://www.w3schools.com/jsref/prop_html_innerhtml.asp
 - 2016-04-23_13h14
 
