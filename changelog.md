@@ -12,7 +12,8 @@ https://github.com/firepress-org/splashy/blob/master/changelog.md
 
 ### 0.41 wip
 - adding content into variables
-- date
+- thanks to http://www.w3schools.com/jsref/prop_html_innerhtml.asp
+- 2016-04-23_12h31
 
 ### 0.40 2016-04-22_22h21
 - New export
