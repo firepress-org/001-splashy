@@ -12,6 +12,7 @@ https://github.com/firepress-org/splashy/blob/master/changelog.md
 
 ### 0.42
 - fixing the meta, not in VARs
+- update text
 - wip
 
 ### 0.41
