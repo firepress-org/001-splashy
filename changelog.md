@@ -6,6 +6,10 @@ https://github.com/firepress-org/splashy/blob/master/changelog.md
 - Testing via https://www.browserstack.com/
 - tk
 
+### 0.45
+- update text for sync testing when 'ghost up'
+- 2016-04-24_19h03
+
 ### 0.44
 - update text for sync testing when 'ghost up'
 - 2016-04-24_17h43
