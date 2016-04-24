@@ -6,9 +6,9 @@ https://github.com/firepress-org/splashy/blob/master/changelog.md
 - Testing via https://www.browserstack.com/
 - tk
 
-### 0.X
-- tk
-- date
+### 0.43
+- update text for sync testing
+- 2016-04-24_12h58
 
 ### 0.42
 - fixing the meta, not in VARs
