@@ -6,6 +6,12 @@ https://github.com/firepress-org/splashy/blob/master/changelog.md
 - Testing via https://www.browserstack.com/
 - tk
 
+### 0.50
+- Major update
+- optimised for more text in the description
+- not using inner.html
+- best practice: profile picture shall be 280px by 280px 
+
 ### 0.47
 - update text for sync testing when 'ghost up'
 - 2016-04-26_11h08

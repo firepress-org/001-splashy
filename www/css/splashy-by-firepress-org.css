@@ -19,7 +19,7 @@
   width: 600px;
   margin-right: auto;
   margin-left: auto;
-  padding: 50px 20px 30px;
+  padding: 50px 66px 30px;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -webkit-flex-direction: column;
@@ -29,7 +29,7 @@
   -webkit-justify-content: flex-start;
   -ms-flex-pack: start;
   justify-content: flex-start;
-  border: 1px solid #ececec;
+  border: 1px none #ececec;
   border-radius: 4px;
   background-color: #fff;
 }
@@ -45,17 +45,17 @@
 }
 
 .img-profile {
-  width: 150px;
+  width: 140px;
   height: auto;
-  border: 1px solid #ececec;
-  border-radius: 80px;
+  border: 1px none #ececec;
+  border-radius: 70px;
 }
 
 .header1 {
   margin-top: 0px;
   margin-bottom: 0px;
   padding-top: 40px;
-  padding-bottom: 5px;
+  padding-bottom: 8px;
   font-family: 'Open Sans', sans-serif;
   color: #3b3b3b;
   font-size: 1.6em;
@@ -70,14 +70,14 @@
   font-family: Merriweather, serif;
   color: #666;
   font-size: 1em;
-  line-height: 1.4em;
+  line-height: 1.5em;
   font-weight: 300;
   text-align: center;
 }
 
 .cta {
   padding-top: 25px;
-  padding-bottom: 20px;
+  padding-bottom: 16px;
   text-align: center;
 }
 
@@ -86,7 +86,7 @@
   border-radius: 4px;
   background-color: #2e85d6;
   font-family: Merriweather, serif;
-  color: #f3f3f3;
+  color: #fff;
   font-size: 0.96em;
   font-weight: 300;
   text-decoration: none;
@@ -104,7 +104,7 @@
   border-color: rgba(5, 103, 141, .2);
   border-radius: 5px;
   font-family: 'Open Sans', sans-serif;
-  color: #b1b1b1;
+  color: #727272;
   font-size: 0.8em;
   line-height: 0.5em;
   font-weight: 400;
@@ -138,7 +138,7 @@
   }
   .profile-background {
     width: 82%;
-    padding: 30px 20px;
+    padding: 30px;
   }
   .div-img-profile {
     margin-bottom: -77px;
