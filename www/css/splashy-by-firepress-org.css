@@ -9,6 +9,7 @@
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
+  background-attachment: fixed;
   font-size: 17px;
   line-height: 48px;
   text-align: center;

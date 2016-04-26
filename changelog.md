@@ -6,6 +6,11 @@ https://github.com/firepress-org/splashy/blob/master/changelog.md
 - Testing via https://www.browserstack.com/
 - tk
 
+### 0.52
+- Fixing background glitch on phone landscape view 
+	back set to fix
+- 2016-04-26_14h20
+
 ### 0.51
 - Reducing the base font at 17px instead of 18px
 - 2016-04-26_14h13
