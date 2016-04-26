@@ -1,14 +1,20 @@
 ## Please check to changelog here
 https://github.com/firepress-org/splashy/blob/master/changelog.md
 
-### Next
-- uglified
-- Testing via https://www.browserstack.com/
-- tk
+### Backlog
+**enhancement** - https://github.com/firepress-org/splashy/labels/enhancement
 
-### 0.5x
-- tk
+### 0.xx
+- placeholder
 - date
+
+### 0.xx
+- placeholder
+- date
+
+### 0.55
+- Font color updates, subtle back changes
+- 2016-04-26_14h55
 
 ### 0.54
 - using a new background image of 1280x1024px
