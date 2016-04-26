@@ -12,6 +12,11 @@ https://github.com/firepress-org/splashy/blob/master/changelog.md
 - placeholder
 - date
 
+### 0.56
+- Profile name is now bigger
+- The text is now using a 0.1px caracter spacing
+- It's now well matching the casper theme
+
 ### 0.55
 - Font color updates, subtle back changes
 - 2016-04-26_14h55
