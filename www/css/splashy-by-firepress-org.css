@@ -132,6 +132,9 @@
 @media (max-width: 767px) {
   .section-splash {
     padding-top: 20px;
+    padding-bottom: 0px;
+  }
+  .body-main {
     padding-bottom: 35px;
   }
   .profile-background {
@@ -167,7 +170,7 @@
 @media (max-width: 479px) {
   .section-splash {
     padding-top: 35px;
-    padding-bottom: 35px;
+    padding-bottom: 0px;
   }
   .profile-background {
     width: 94%;

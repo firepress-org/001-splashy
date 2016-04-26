@@ -12,6 +12,11 @@ https://github.com/firepress-org/splashy/blob/master/changelog.md
 - placeholder
 - date
 
+### 0.58
+- Issue with 0.57
+- Putting 35px space at the bottom on phone landscape view via the body instead of the section
+- 2016-04-26_15h19
+
 ### 0.57
 - Add a 35px space at the bottom on phone landscape view 
 - 2016-04-26_15h15
