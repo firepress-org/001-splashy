@@ -6,10 +6,20 @@ https://github.com/firepress-org/splashy/blob/master/changelog.md
 - Testing via https://www.browserstack.com/
 - tk
 
+### 0.5x
+- tk
+- date
+
+### 0.54
+- using a new background image of 1280x1024px
+- putting 4px less at the bottom of the card
+- 2016-04-26_14h46
+
 ### 0.53
 - Fixing background glitch on phone landscape view 
 	back set to fix
 Putting the background image into the main section, not into the body. V0.52 did not fixed it.
+- EDIT: This fixed the phone landscape view but on desktop, I now see the same issue ...
 - 2016-04-26_14h26
 
 ### 0.52

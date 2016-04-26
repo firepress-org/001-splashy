@@ -1,14 +1,13 @@
 .section-splash {
-  height: 100%;
   padding-top: 80px;
   padding-bottom: 30px;
-  background-image: url('../images/background.jpg');
-  background-position: 50% 50%;
-  background-size: cover;
-  background-repeat: no-repeat;
 }
 
 .body-main {
+  background-image: url('../images/background-1280-1024.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
   font-size: 17px;
   line-height: 48px;
   text-align: center;
@@ -46,8 +45,6 @@
 
 .img-profile {
   width: 140px;
-  height: auto;
-  border: 0px none #ececec;
   border-radius: 70px;
 }
 
@@ -138,7 +135,7 @@
   }
   .profile-background {
     width: 82%;
-    padding: 30px;
+    padding: 30px 30px 26px;
   }
   .div-img-profile {
     margin-bottom: -77px;
