@@ -6,6 +6,12 @@ https://github.com/firepress-org/splashy/blob/master/changelog.md
 - Testing via https://www.browserstack.com/
 - tk
 
+### 0.53
+- Fixing background glitch on phone landscape view 
+	back set to fix
+Putting the background image into the main section, not into the body. V0.52 did not fixed it.
+- 2016-04-26_14h26
+
 ### 0.52
 - Fixing background glitch on phone landscape view 
 	back set to fix
