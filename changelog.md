@@ -6,6 +6,10 @@ https://github.com/firepress-org/splashy/blob/master/changelog.md
 - Testing via https://www.browserstack.com/
 - tk
 
+### 0.51
+- Reducing the base font at 17px instead of 18px
+- 2016-04-26_14h13
+
 ### 0.50
 - Major update
 - optimised for more text in the description
