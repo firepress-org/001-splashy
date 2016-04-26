@@ -12,6 +12,10 @@ https://github.com/firepress-org/splashy/blob/master/changelog.md
 - placeholder
 - date
 
+### 0.57
+- Add a 35px space at the bottom on phone landscape view 
+- 2016-04-26_15h15
+
 ### 0.56
 - Profile name is now bigger
 - The text is now using a 0.1px caracter spacing
