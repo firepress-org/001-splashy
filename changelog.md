@@ -8,9 +8,9 @@ https://github.com/firepress-org/splashy/blob/master/changelog.md
 - placeholder
 - date
 
-### 0.xx
-- placeholder
-- date
+### 0.59
+- using a background image of background-1280-1142.jpg
+- 2016-04-26_21h55
 
 ### 0.58
 - Issue with 0.57

@@ -4,10 +4,11 @@
 }
 
 .body-main {
-  background-image: url('../images/background-1280-1024.jpg');
-  background-position: 50% 50%;
+  background-image: url('../images/background-1280-1142.jpg');
+  background-position: 50% 100%;
   background-size: cover;
   background-repeat: no-repeat;
+  background-attachment: fixed;
   font-size: 17px;
   line-height: 48px;
   text-align: center;
@@ -132,10 +133,12 @@
 @media (max-width: 767px) {
   .section-splash {
     padding-top: 20px;
-    padding-bottom: 0px;
+    padding-bottom: 20px;
   }
   .body-main {
-    padding-bottom: 35px;
+    background-position: 50% 50%;
+    background-size: cover;
+    background-attachment: fixed;
   }
   .profile-background {
     width: 82%;
@@ -170,7 +173,7 @@
 @media (max-width: 479px) {
   .section-splash {
     padding-top: 35px;
-    padding-bottom: 0px;
+    padding-bottom: 35px;
   }
   .profile-background {
     width: 94%;
