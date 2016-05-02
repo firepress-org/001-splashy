@@ -4,9 +4,17 @@ https://github.com/firepress-org/splashy/blob/master/changelog.md
 ### Backlog
 **enhancement** - https://github.com/firepress-org/splashy/labels/enhancement
 
-### 0.xx
-- placeholder
-- date
+### 0.xx (tk)
+- tk
+- tk
+
+### 0.xx (tk)
+- tk
+- tk
+
+### 0.60 (2016-05-02_15h46)
+- The CTA is NOT having capital letters on the first letter of each words by default
+- Profile picture is now smaller at 110X110px on mobile portrait
 
 ### 0.59
 - using a background image of background-1280-1142.jpg
