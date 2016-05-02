@@ -8,9 +8,8 @@ https://github.com/firepress-org/splashy/blob/master/changelog.md
 - tk
 - tk
 
-### 0.xx (tk)
-- tk
-- tk
+### 0.61 (2016-05-02_15h54)
+- Adding a second paragraph (if needed) and ajusting the padding
 
 ### 0.60 (2016-05-02_15h46)
 - The CTA is NOT having capital letters on the first letter of each words by default

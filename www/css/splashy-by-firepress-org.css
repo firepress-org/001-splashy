@@ -65,6 +65,7 @@
 .header2 {
   margin-top: 0px;
   margin-bottom: 0px;
+  padding-bottom: 10px;
   font-family: Merriweather, serif;
   color: #505050;
   font-size: 1em;
@@ -75,7 +76,7 @@
 }
 
 .cta {
-  padding-top: 25px;
+  padding-top: 15px;
   padding-bottom: 16px;
   text-align: center;
 }
@@ -153,7 +154,7 @@
   }
   .header2 {
     padding-top: 2px;
-    padding-bottom: 2px;
+    padding-bottom: 10px;
     font-size: 0.96em;
   }
   .button {
