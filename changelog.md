@@ -4,9 +4,8 @@ https://github.com/firepress-org/splashy/blob/master/changelog.md
 ### Backlog
 **enhancement** - https://github.com/firepress-org/splashy/labels/enhancement
 
-### 0.xx (tk)
-- tk
-- tk
+### 0.62 (2016-05-02_16h05)
+- Two paragraph is not a good idea. Sticking to only one.
 
 ### 0.61 (2016-05-02_15h54)
 - Adding a second paragraph (if needed) and ajusting the padding
