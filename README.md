@@ -1,5 +1,8 @@
+## Repo URL
+https://github.com/firepress-org/splashy.git
+
 ## Status
-Not ready for prime time yet. Sorry.
+WIP (work in progress). Not ready for prime time yet.
 
 ## See changelog
 https://github.com/firepress-org/splashy/blob/master/changelog.md
