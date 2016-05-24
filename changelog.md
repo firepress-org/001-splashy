@@ -1,8 +1,6 @@
-## Please check to changelog here
-https://github.com/firepress-org/splashy/blob/master/changelog.md
-
-### Backlog
-**enhancement** - https://github.com/firepress-org/splashy/labels/enhancement
+### 0.64 2016-05-24_15h30
+- reset values with 'tk' so it's easier to update them
+- Update CTA button with color 1b9af7
 
 ### 0.63 2016-05-24_15h19
 - profil size (px) is: 140, 140, 128, 110

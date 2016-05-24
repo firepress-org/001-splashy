@@ -1,11 +1,17 @@
 ## Repo URL
 https://github.com/firepress-org/splashy.git
 
+## changelog location
+https://github.com/firepress-org/splashy/blob/master/changelog.md
+
+### Backlog
+**enhancement** - https://github.com/firepress-org/splashy/labels/enhancement
+
+### Issues are tracked here
+https://github.com/firepress-org/splashy/issues
+
 ## Status
 WIP (work in progress). Not ready for prime time yet.
-
-## See changelog
-https://github.com/firepress-org/splashy/blob/master/changelog.md
 
 ## Where to download official versions?
 
