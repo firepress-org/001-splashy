@@ -1,3 +1,6 @@
+### 0.65 2016-05-24_16h15
+- minified CSS & creation of a CSS-original folder
+
 ### 0.64 2016-05-24_15h30
 - reset values with 'tk' so it's easier to update them
 - Update CTA button with color 1b9af7
