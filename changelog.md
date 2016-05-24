@@ -4,6 +4,12 @@ https://github.com/firepress-org/splashy/blob/master/changelog.md
 ### Backlog
 **enhancement** - https://github.com/firepress-org/splashy/labels/enhancement
 
+### 0.63 2016-05-24_15h19
+- profil size (px) is: 140, 140, 128, 110
+- fix the button spacing in the case the text takes two lines.
+- fix the bottom links in the case the text takes two lines.
+- Update shall only impact the CSS file
+
 ### 0.62 (2016-05-02_16h05)
 - Two paragraph is not a good idea. Sticking to only one.
 
