@@ -1,7 +1,7 @@
 ### 0.66 2016-05-24_16h20
 - re- minified using http://csscompressor.com/. It works better.
 - Also minifed JS scripts
-- saved around 200kbs!
+- saved around 130 kbs!
 
 ### 0.65 2016-05-24_16h15
 - minified CSS & creation of a CSS-original folder
