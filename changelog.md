@@ -1,3 +1,12 @@
+### 0.70 2016-07-06_22h24
+- I now feel it has potential to be our V 1.0
+- now using firepress.org logo as default 256px square
+- removing blurry background by color `whitesmoke`
+- profil size (px) = 128, 128, 110, 110
+
+- minified CSS & JS files using http://csscompressor.com/ & http://javascript-compressor.com/
+	- Project size before: 319KB and after: 184KB. We just save 57.7% here!
+
 ### 0.66 2016-05-24_16h20
 - re- minified using http://csscompressor.com/. It works better.
 - Also minifed JS scripts
