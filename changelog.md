@@ -1,3 +1,7 @@
+### 0.72 2016-07-07_21h14
+- Removing spaces in index.html
+As the file in small I feel it's even easier to read this way.
+
 ### 0.71 2016-07-07_20h59
 - card size is now 480, 480, 82%, auto
 - mobile portrait view have a fully white background. There is no card view feeling like the other 3 bigger views.
