@@ -1,3 +1,10 @@
+### 0.71 2016-07-07_20h59
+- card size is now 480, 480, 82%, auto
+- mobile portrait view have a fully white background. There is no card view feeling like the other 3 bigger views.
+- css and js size = 104KB
+- images size = 49KB
+- Now there is also a "css-not-minified" folder so we can track the changes in git
+
 ### 0.70 2016-07-06_22h24
 - I now feel it has potential to be our V 1.0
 - now using firepress.org logo as default 256px square
