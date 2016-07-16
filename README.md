@@ -7,7 +7,7 @@ TODO
 ### Usage
 TODO — I need to create a video! 
 
-This is not for developper and anyone should be able to create it's own landing page with this template.
+This is not for developers and anyone should be able to create its own landing page with this template.
 
 ### Download
 https://github.com/firepress-org/splashy/archive/master.zip
@@ -40,5 +40,5 @@ https://github.com/firepress-org/splashy/labels/enhancement
 ### Issues 
 Are tracked here: https://github.com/firepress-org/splashy/issues
 
-### License
-All of these documents are licensed under a [Creative Commons BY-NC 3.0](http://creativecommons.org/licenses/by-nc/3.0/) license. You are free to share and to remix them (as long as you credit us) but please don't use them commercially or in a bundle without permission.
+### Licence
+All of these documents are licensed under a [Creative Commons BY-NC 3.0](http://creativecommons.org/licenses/by-nc/3.0/) licence. You are free to share and to remix them (as long as you credit us) but please don't use them commercially or in a bundle without permission.
