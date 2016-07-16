@@ -1,3 +1,8 @@
+### 0.73 2016-07-16_14h21
+- putting `tk` where the content requires to be updated
+- update default content
+- rename the 2 pictures
+
 ### 0.72 2016-07-07_21h14
 - Removing spaces in index.html
 As the file in small I feel it's even easier to read this way.
