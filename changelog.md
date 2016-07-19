@@ -1,3 +1,7 @@
+### 0.74 2016-07-18_22h19
+
+- adding credits in comments of the index.html page
+
 ### 0.73 2016-07-16_14h21
 - putting `tk` where the content requires to be updated
 - update default content
