@@ -1,5 +1,8 @@
-### 0.74 2016-07-18_22h19
 
+### 0.75 2016-07-24_23h59
+- minor update in the default content
+
+### 0.74 2016-07-18_22h19
 - adding credits in comments of the index.html page
 
 ### 0.73 2016-07-16_14h21
