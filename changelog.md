@@ -1,4 +1,12 @@
 
+### 0.76 2016-07-25_15h05
+Add new default logo and renamed icon
+- icon-32.png
+- icon-256.png
+- logo-256.jpg
+
+Update our default content
+
 ### 0.75 2016-07-24_23h59
 - minor update in the default content
 
