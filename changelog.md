@@ -7,6 +7,7 @@
 - icon-32.png (because there is a new logo)
 
 - using optimimage, we saved 37kbs on those 3 images
+- the whole project is 316KB
 
 ### 0.76 2016-07-25_15h05
 Add new default logo and renamed icon
