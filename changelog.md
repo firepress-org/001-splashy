@@ -1,4 +1,13 @@
 
+### 0.77 2016-07-28_01h09
+- Using a new version logo (v08)
+
+- icon-512.png (was 256px)
+- logo-256.png (now have a clear “Your Brand Here” instead of FirePress brand. It was confusing for new users)
+- icon-32.png (because there is a new logo)
+
+- using optimimage, we saved 37kbs on those 3 images
+
 ### 0.76 2016-07-25_15h05
 Add new default logo and renamed icon
 - icon-32.png
