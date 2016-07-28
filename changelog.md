@@ -1,4 +1,6 @@
 
+### 0.80 2016-07-28_01h29
+- putting back tk placeholders
 
 ### 0.79 2016-07-28_01h26
 - fix logo
