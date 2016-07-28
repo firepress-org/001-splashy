@@ -1,4 +1,9 @@
 
+
+### 0.79 2016-07-28_01h26
+- fix logo
+- fix typo
+
 ### 0.78 2016-07-28_01h18
 - update default content
 
