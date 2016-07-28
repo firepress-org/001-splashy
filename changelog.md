@@ -1,4 +1,7 @@
 
+### 0.78 2016-07-28_01h18
+- update default content
+
 ### 0.77 2016-07-28_01h09
 - Using a new version logo (v08)
 
