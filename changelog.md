@@ -1,4 +1,8 @@
 
+
+### 0.82 2016-07-28_23h04
+- minor content update
+
 ### 0.81 2016-07-28_01h34
 - minor content update
 
