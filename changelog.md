@@ -1,3 +1,6 @@
+### 0.84 2016-07-29_01h15
+- minor link update so it’s easy to take the full blog link and paste it
+
 ### 0.83
 - minor content update
 - add space in the source code to make it easier to read
