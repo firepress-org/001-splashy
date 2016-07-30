@@ -1,3 +1,7 @@
+### 0.85 2016-07-29_22h19
+- minor content update
+- logo is now a .jpg by default (not PNG)
+
 ### 0.84 2016-07-29_01h15
 - minor link update so it’s easy to take the full blog link and paste it
 
