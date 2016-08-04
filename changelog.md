@@ -1,5 +1,11 @@
-### 0.90 New export 2016-08-03_21h33
-- wip
+### 1.01 2016-08-04_14h05
+- Major release
+- The background is now stable for all views
+- tk
+- tk
+- tk
+- tk
+- tk
 
 ### 0.85 2016-07-29_22h19
 - minor content update
