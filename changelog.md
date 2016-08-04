@@ -1,3 +1,6 @@
+### 0.90 New export 2016-08-03_21h33
+- wip
+
 ### 0.85 2016-07-29_22h19
 - minor content update
 - logo is now a .jpg by default (not PNG)
