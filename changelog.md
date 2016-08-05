@@ -1,14 +1,11 @@
 ### 1.01 2016-08-04_18h22
 - Major release
 - The background is now stable for all views. There was a glitch on view 3.
-- The background is design to fit the core-blog-cover-city-blurry.jpg which is the default cover in our Ghost Installation. 
-	- Best practice, this background image should be 1280px by 900px.
-	- Advice, blur it else the background might take too much attention
-- Size for the four default pictures = 108kbs
-- tk
-- tk
-- tk
-- minified CSS & JS files using csscompressor.com/ & javascript-compressor.com/ 105KB vs 206kKB
+- The blurry background is designed to fit the core-blog-cover-city-blurry.jpg which is the default cover in our Ghost Installation. 
+	- Best practice, this background image should be 1280px by 900px else it might response weird in different views
+	- Advice, use a blurry image, else the background might take too much attention and mess with the minimal design
+- image folder size = 108KB
+- minified CSS & JS files using csscompressor.com/ & javascript-compressor.com/ after=105KB / before= 206kKB
 
 
 ### 0.85 2016-07-29_22h19
@@ -275,7 +272,7 @@ Putting the background image into the main section, not into the body. V0.52 did
 
 ---
 
-# Views definition
+# Four View definitions
 
 1. Desktop / ipad landscape
 2. ipad portrait
