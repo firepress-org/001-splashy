@@ -4,7 +4,7 @@
 - The blurry background is designed to fit the core-blog-cover-city-blurry.jpg which is the default cover in our Ghost Installation. 
 	- Best practice, this background image should be 1280px by 900px else it might response weird in different views
 	- Advice, use a blurry image, else the background might take too much attention and mess with the minimal design
-- image folder size = 108KB
+- Project size = 222KB (where the image folder size = 108KB)
 - minified CSS & JS files using csscompressor.com/ & javascript-compressor.com/ after=105KB / before= 206kKB
 
 
