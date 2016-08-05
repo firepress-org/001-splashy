@@ -1,4 +1,4 @@
-### 1.01 2016-08-04_18h22
+### 1.0 2016-08-05_17h26
 - Major release
 - The background is now stable for all views. There was a glitch on view 3.
 - The blurry background is designed to fit the core-blog-cover-city-blurry.jpg which is the default cover in our Ghost Installation. 
