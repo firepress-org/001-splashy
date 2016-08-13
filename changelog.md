@@ -1,5 +1,7 @@
 ### 1.1 2016-08-13_16h36
 - minor changes in the content
+- CTA link = /services/ (not the blog loop)
+- about link = /about/ (not about-me)
 - the default CTA now goes into /services/
 - profile-background color is now fully white not smoke-white
 
