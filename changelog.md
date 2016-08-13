@@ -1,3 +1,8 @@
+### 1.1 2016-08-13_16h36
+- minor changes in the content
+- the default CTA now goes into /services/
+- profile-background color is now fully white not smoke-white
+
 ### 1.0 2016-08-05_17h26
 - Major release
 - The background is now stable for all views. There was a glitch on view 3.
