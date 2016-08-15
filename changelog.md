@@ -1,3 +1,7 @@
+### 1.11 wip
+- profile-background color opacity = 90%
+- new appropriate name for background-homepage.jpg
+
 ### 1.1 2016-08-13_16h36
 - minor changes in the content
 - CTA link = /services/ (not the blog loop)
