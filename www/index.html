@@ -1,24 +1,32 @@
 <!DOCTYPE html>
-<!----------------------------------------------------
+  <!----------------------------------------------------
     This static landing page is called 'splashy'
     It's open source and available here: https://github.com/firepress-org/splashy
     Made by Pascal Andy / https://twitter.com/_pascalandy
     http://firepress.org
------------------------------------------------------->
+  ------------------------------------------------------>
+
 <html>
 <head>
   <meta charset="utf-8">
-  <title>TK meta title to update</title>
-  <meta content="TK meta description to update" name="description">
     
-  <meta content="TK meta title to update" property="og:title">
-  <meta content="TK meta description to update" property="og:description">
+  <!----------------------------------------------------
+    Title shall have less than 70 characters. 
+    Description shall have less than 155 characters.
+    More details here: http://blog.firepress.org/meta-data-best-practices/
+  ------------------------------------------------------>
+  <title>TK meta-title</title>
+  <meta content="TK meta-description" name="description">
+    
+  <meta content="TK meta-title" property="og:title">
+  <meta content="TK meta-description" property="og:description">
     
   <meta content="summary" name="twitter:card">
   <meta content="width=device-width, initial-scale=1" name="viewport">
-    <!----------------------------------------------------
+    
+  <!-- google-site-verification -------------------------
   <meta content="TK-12345678912345678891256789hgfds5tgvwdfvrf" name="google-site-verification">
-    ------------------------------------------------------>
+  ------------------------------------------------------>
   <link href="css/normalize.css" rel="stylesheet" type="text/css">
   <link href="css/webflow.css" rel="stylesheet" type="text/css">
   <link href="css/firepress-splashy.webflow.css" rel="stylesheet" type="text/css">
@@ -33,7 +41,8 @@
   <script src="js/modernizr.js" type="text/javascript"></script>
   <link href="images/icon-32.png" rel="shortcut icon" type="image/x-icon">
   <link href="images/icon-256.png" rel="apple-touch-icon">
-    <!----------------------------------------------------
+    
+  <!-- Google Analytics --------------------------------
   <script type="text/javascript">
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'TK-1234567-89'], ['_trackPageview']);
@@ -43,7 +52,8 @@
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
   </script>
-    ------------------------------------------------------>
+  ------------------------------------------------------>
+    
 </head>
 
 <body class="body-main">
@@ -52,16 +62,24 @@
       <div class="div-img-profile"><img class="img-profile" src="images/logo-256.jpg" width="128">
       </div>
       <div class="profile-background">
-          
-        <h1 class="header1">A TITLE</h1>
+
+  <!----------------------------------------------------
+    Edit the following:
+    h1 is the main title
+    h2 is the copy
+    CTA is the main button. It's your call to action)
+    hash-links are the links after the CTA
+  ------------------------------------------------------>
+    <h1 class="header1">Main Title</h1>
+        <h2 class="header2">Sub title</h2>
         <h2 class="header2">I help people to... See what we've done in the past and if you like it... the good news is that we can do it for you too.</h2>
-        <div class="cta">
-            <a class="button w-button" href="http://TKblog.firepress.org/services/">Continue Here</a>
-        </div>
-        <div class="div-hash-links">
-            <a class="hash-links" href="http://TKblog.firepress.org/contact/">Contact</a>
-            <a class="hash-links" href="http://TKblog.firepress.org/about/">About</a>
-        </div>
+    <div class="cta">
+        <a class="button w-button" href="http://TKblog.firepress.org/services/">Continue Here</a>
+    </div>
+    <div class="div-hash-links">
+        <a class="hash-links" href="http://TKblog.firepress.org/contact/">Contact</a>
+        <a class="hash-links" href="http://TKblog.firepress.org/about/">About</a>
+    </div>
           
       </div>
     </div>
@@ -70,5 +88,4 @@
   <script src="js/webflow.js" type="text/javascript"></script>
   <!--[if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]-->
 </body>
-    
 </html>
