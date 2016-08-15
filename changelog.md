@@ -1,4 +1,4 @@
-### 1.11 wip
+### 1.11 2016-08-15_00h32
 - profile-background color opacity = 90%
 - new appropriate name for background-homepage.jpg
 - add comments
