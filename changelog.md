@@ -2,6 +2,7 @@
 - profile-background color opacity = 90%
 - new appropriate name for background-homepage.jpg
 - add comments
+- HTML formatter via http://www.cleancss.com/html-beautify/
 
 ### 1.1 2016-08-13_16h36
 - minor changes in the content
