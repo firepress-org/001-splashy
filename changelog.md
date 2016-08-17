@@ -1,3 +1,6 @@
+### 1.12 2016-08-17_14h12
+- Fixing bg image name
+
 ### 1.11 2016-08-15_00h32
 - profile-background color opacity = 90%
 - new appropriate name for background-homepage.jpg
