@@ -1,5 +1,7 @@
-### 1.12 2016-08-17_14h12
+### 1.12 2016-08-17_15h08
 - Fixing bg image name
+- Add bold to sub-title
+- minor content fixes
 
 ### 1.11 2016-08-15_00h32
 - profile-background color opacity = 90%
